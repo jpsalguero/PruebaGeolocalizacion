@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba Geolocalización</string>
+    <string name="title_activity_maps">Prueba Geolocalización</string>
+    <string name="label_miDir">Mi dirección es: </string>
+    <string name="btn_dirActual">Capturar dirección actual</string>
+    <string name="btn_msDirActual">Mostrar Ruta</string>
+</resources>
